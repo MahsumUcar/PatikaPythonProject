@@ -15,6 +15,9 @@ def flatten(x):
 flatten(x)
 print(l)
 
+
+### REVERSE
+
 list = ["a" , "b" , "c", ["d","e"], [1, 2], [3, 4], [5, 6, 7], [8,9]]
 list.reverse()
 
